@@ -4,7 +4,7 @@ Here's a tiny table to test org mode rendering on GitHub.
 
 | Name               | Taxon-ID |
 |--------------------+----------|
-| *Homo sapiens*     |     9606 |
-| *Escherichia coli* |      562 |
+| /Homo sapiens/     |     9606 |
+| /Escherichia coli/ |      562 |
 
 
